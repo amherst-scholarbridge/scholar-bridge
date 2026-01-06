@@ -8,7 +8,7 @@
 </script>
 
 <svelte:head>
-	<title>Stuyvesant ARISTA</title>
+	<title>Amherst HS Scholar Bridge</title>
 	<!-- TODO: Add meta description tag <= 160 chars -->
 </svelte:head>
 
